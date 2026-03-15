@@ -35,9 +35,6 @@ You can open the main HTML file directly in the browser.
 ### Option B (recommended): Use a local server
 Running via a local server is usually smoother and avoids browser restrictions.
 
-Then open:
-- `http://localhost:5500/`
-
 Or using VS Code:
 - Install **Live Server**
 - Right click your HTML file → **Open with Live Server**
